@@ -7,6 +7,7 @@ public class Ejercicio8 {
 		System.out.println("hola mi mundo");
 		String nombre = "sebastian git";
 		String apellido = "github";
+		String direccion = "calle";
 	}
 
 }
